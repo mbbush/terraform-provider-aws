@@ -220,6 +220,7 @@ const (
 	Signer                       = "signer"
 	SimpleDB                     = "simpledb"
 	StorageGateway               = "storagegateway"
+	Support                      = "support"
 	Synthetics                   = "synthetics"
 	TimestreamWrite              = "timestreamwrite"
 	Transcribe                   = "transcribe"

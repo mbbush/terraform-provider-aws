@@ -157,6 +157,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.20.5
 	github.com/aws/aws-sdk-go-v2/service/ssoadmin v1.25.5
 	github.com/aws/aws-sdk-go-v2/service/sts v1.28.6
+	github.com/aws/aws-sdk-go-v2/service/support v1.21.3
 	github.com/aws/aws-sdk-go-v2/service/swf v1.22.4
 	github.com/aws/aws-sdk-go-v2/service/synthetics v1.24.4
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.25.5
